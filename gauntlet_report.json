@@ -1,0 +1,45 @@
+{
+  "gauntlet_root": "/home/ghrammr/dev/gauntlet",
+  "provenance": {
+    "exfiltration_ratio_pct": 0.0,
+    "total_egress_bytes_sent": 0,
+    "total_source_bytes_processed": 3992378091,
+    "zero_upload_verified": true
+  },
+  "repositories": [
+    {
+      "antipatterns_found": 38895,
+      "critical_threat_bounty_usd": 2250,
+      "critical_threats_count": 15,
+      "dead_symbols_added": 1761,
+      "highest_pr": 117590,
+      "highest_score": 750,
+      "pr_count": 946,
+      "reclaimed_hours": 1.4,
+      "reclaimed_minutes": 84.0,
+      "repo_name": "godot",
+      "structural_slop_count": 12,
+      "total_actionable_intercepts": 34,
+      "total_ci_energy_saved_kwh": 3.4,
+      "total_economic_impact_usd": 2630,
+      "total_slop_score": 4280,
+      "zombie_dep_prs": 9
+    }
+  ],
+  "schema_version": "8.8.1",
+  "total_antipatterns": 38895,
+  "total_prs": 946,
+  "total_repos": 1,
+  "total_slop_score": 4280,
+  "workslop": {
+    "actionable_intercepts": 34,
+    "critical_threat_bounty_usd": 2250,
+    "critical_threats_count": 15,
+    "necrotic_count": 7,
+    "structural_slop_count": 12,
+    "total_ci_energy_saved_kwh": 3.4,
+    "total_economic_impact_usd": 2630,
+    "total_reclaimed_hours": 1.4,
+    "total_reclaimed_minutes": 84.0
+  }
+}
